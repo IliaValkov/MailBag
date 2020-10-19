@@ -1,0 +1,10 @@
+{
+    "smtp": {
+        "host": "smtp.gmail.com", "port": 587,
+        "auth": {"user": "ilia.valkov97", "pass": "@cs2dcom2dC"}  
+    },
+    "imap": {
+        "host": "imap.gmail.com", "port": 993,
+        "auth": {"user": "ilia.valkov97", "pass": "@cs2dcom2dC"}  
+    }
+}
